@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+/* fpai.css */
+
+body {
+  font-family: "Times Roman", "Times New Roman", Times;
+  color: black;
+  background-color: #dfdfcf;
+  margin-right: 2em;
+  margin-left: 2em;
+}
+
+h1 {
+  margin-top: 0px;
+  font-size: 140%;
+}
+
+h1.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 500%;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 115%;
+  margin-right: 10%;
+  padding-left: 1ex;
+  border-bottom: gray thin solid;
+  border-left: gray thick solid;
+}
+
+
+th,td {
+   border: 1px solid black;
+   padding:  0.2em 1em 0.2em 1em;
+}
+table {
+   border-collapse: collapse;
+   border: 3px solid black;
+}
+
+
+h4 {
+  margin-left  : -24px;
+}
+
+hr {
+  margin-left  : -24px;
+}
+
+ul {
+  margin-left  : 18px;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin-left   : 2em;
+}
+
+/* EOF */
